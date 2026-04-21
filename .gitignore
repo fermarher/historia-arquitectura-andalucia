@@ -1,0 +1,7 @@
+.DS_Store
+__MACOSX/
+*.py
+*.pyc
+__pycache__/
+foto_mapping.json
+datos_monumentos.json
