@@ -1,0 +1,666 @@
+{
+  "Antas": {
+    "lat": 37.2452206,
+    "lon": -1.9181629
+  },
+  "Santa Fe de Mondújar": {
+    "lat": 36.9738035,
+    "lon": -2.5307759
+  },
+  "Mojácar": {
+    "lat": 37.1402087,
+    "lon": -1.8510071
+  },
+  "Cuevas del Almanzora": {
+    "lat": 37.2961366,
+    "lon": -1.8807223
+  },
+  "Purchena": {
+    "lat": 37.3477463,
+    "lon": -2.3608085
+  },
+  "Alosno": {
+    "lat": 37.5496719,
+    "lon": -7.115795
+  },
+  "Valencina de la Concepción": {
+    "lat": 37.4175713,
+    "lon": -6.0738363
+  },
+  "Alcalá de Guadaíra y Mairena del Alcor": {
+    "lat": 37.3703252,
+    "lon": -5.7601998
+  },
+  "Jaén": {
+    "lat": 37.7728858,
+    "lon": -3.7883289
+  },
+  "Porcuna": {
+    "lat": 37.8710423,
+    "lon": -4.1842853
+  },
+  "Zalamea la Real": {
+    "lat": 37.6793659,
+    "lon": -6.6605705
+  },
+  "Montefrío": {
+    "lat": 37.321018,
+    "lon": -4.011123
+  },
+  "Antequera": {
+    "lat": 37.0183652,
+    "lon": -4.5596649
+  },
+  "Trigueros": {
+    "lat": 37.3830829,
+    "lon": -6.834095
+  },
+  "Rosal de la Frontera": {
+    "lat": 37.9679076,
+    "lon": -7.2204724
+  },
+  "Aroche": {
+    "lat": 37.9436167,
+    "lon": -6.9539589
+  },
+  "Valverde de los Caminos": {
+    "lat": 38.755544,
+    "lon": -6.98105
+  },
+  "El Gastor": {
+    "lat": 36.8551853,
+    "lon": -5.3236056
+  },
+  "Benalup": {
+    "lat": 36.3449297,
+    "lon": -5.8137236
+  },
+  "Tarifa": {
+    "lat": 36.0129082,
+    "lon": -5.6050213
+  },
+  "Castilleja de Guzmán": {
+    "lat": 37.4084162,
+    "lon": -6.0573214
+  },
+  "Belmez": {
+    "lat": 38.272413,
+    "lon": -5.2078919
+  },
+  "Villanueva de Córdoba": {
+    "lat": 38.3230235,
+    "lon": -4.6279655
+  },
+  "Fuente Obejuna": {
+    "lat": 38.2667683,
+    "lon": -5.4197812
+  },
+  "Buendía": {
+    "lat": 36.6579763,
+    "lon": -4.507166
+  },
+  "Campillos": {
+    "lat": 37.0470137,
+    "lon": -4.8621698
+  },
+  "Alozaina": {
+    "lat": 36.727762,
+    "lon": -4.8579969
+  },
+  "Gorafe": {
+    "lat": 37.4795473,
+    "lon": -3.0432238
+  },
+  "Fonelas": {
+    "lat": 37.4133515,
+    "lon": -3.1737013
+  },
+  "Alcalá la Real": {
+    "lat": 37.4619794,
+    "lon": -3.922384
+  },
+  "Quesada": {
+    "lat": 37.8429817,
+    "lon": -3.0669209
+  },
+  "Níjar": {
+    "lat": 36.962894,
+    "lon": -2.2063758
+  },
+  "Gádor": {
+    "lat": 36.9530744,
+    "lon": -2.491623
+  },
+  "Orce": {
+    "lat": 37.7212772,
+    "lon": -2.4794159
+  },
+  "Galera": {
+    "lat": 37.7426081,
+    "lon": -2.5507542
+  },
+  "Purullena": {
+    "lat": 37.3147739,
+    "lon": -3.1892077
+  },
+  "Monachil": {
+    "lat": 37.1324336,
+    "lon": -3.5395284
+  },
+  "Linares": {
+    "lat": 38.0931247,
+    "lon": -3.6357207
+  },
+  "Pinos Puente (Vega granadina)": {
+    "lat": 37.2516033,
+    "lon": -3.749268
+  },
+  "Carmona": {
+    "lat": 37.4717882,
+    "lon": -5.641291
+  },
+  "Lora del Río": {
+    "lat": 37.6574267,
+    "lon": -5.5275818
+  },
+  "Córdoba": {
+    "lat": 37.8845813,
+    "lon": -4.7760138
+  },
+  "Camas": {
+    "lat": 37.4020115,
+    "lon": -6.0331571
+  },
+  "Riotinto": {
+    "lat": 37.6934573,
+    "lon": -6.5957844
+  },
+  "Montoro": {
+    "lat": 38.0215633,
+    "lon": -4.3827296
+  },
+  "Escacena del Campo": {
+    "lat": 37.4088438,
+    "lon": -6.3896302
+  },
+  "Niebla": {
+    "lat": 37.3609544,
+    "lon": -6.6793495
+  },
+  "Sanlúcar de Barrameda": {
+    "lat": 36.7761393,
+    "lon": -6.3534794
+  },
+  "Aljaraque": {
+    "lat": 37.2664912,
+    "lon": -7.0246859
+  },
+  "La Rinconada": {
+    "lat": 37.4867198,
+    "lon": -5.9814868
+  },
+  "Almonte": {
+    "lat": 37.2611686,
+    "lon": -6.5175751
+  },
+  "Huelva": {
+    "lat": 37.2575874,
+    "lon": -6.9484945
+  },
+  "Cádiz": {
+    "lat": 36.5297438,
+    "lon": -6.2928976
+  },
+  "Vélez-Málaga": {
+    "lat": 36.7818354,
+    "lon": -4.0988099
+  },
+  "El Puerto de Santa María": {
+    "lat": 36.6004006,
+    "lon": -6.2252702
+  },
+  "Málaga": {
+    "lat": 36.7213028,
+    "lon": -4.4216366
+  },
+  "Vera": {
+    "lat": 37.2475942,
+    "lon": -1.8681961
+  },
+  "Adra": {
+    "lat": 36.748834,
+    "lon": -3.0203617
+  },
+  "Almuñécar": {
+    "lat": 36.7328699,
+    "lon": -3.68968
+  },
+  "Algarrobo": {
+    "lat": 36.7732439,
+    "lon": -4.0399307
+  },
+  "Marbella": {
+    "lat": 36.508976,
+    "lon": -4.88562
+  },
+  "Estepona": {
+    "lat": 36.4268068,
+    "lon": -5.1468484
+  },
+  "San Roque": {
+    "lat": 36.2100586,
+    "lon": -5.3868293
+  },
+  "Sevilla": {
+    "lat": 37.3886303,
+    "lon": -5.9953403
+  },
+  "Salobreña": {
+    "lat": 36.7463725,
+    "lon": -3.587332
+  },
+  "San Fernando": {
+    "lat": 36.4646672,
+    "lon": -6.1983492
+  },
+  "Hinojares": {
+    "lat": 37.7155422,
+    "lon": -2.9987543
+  },
+  "Almedinilla": {
+    "lat": 37.4405255,
+    "lon": -4.0961434
+  },
+  "Cabra": {
+    "lat": 37.4718153,
+    "lon": -4.4335616
+  },
+  "Osuna": {
+    "lat": 37.2373532,
+    "lon": -5.1033306
+  },
+  "Baza": {
+    "lat": 37.4888637,
+    "lon": -2.7709805
+  },
+  "Peal de Becerro": {
+    "lat": 37.9121397,
+    "lon": -3.1240597
+  },
+  "Ibros": {
+    "lat": 38.020922,
+    "lon": -3.501422
+  },
+  "Vilches": {
+    "lat": 38.2107652,
+    "lon": -3.5130577
+  },
+  "Castellar": {
+    "lat": 38.251697,
+    "lon": -3.1314863
+  },
+  "Huelma": {
+    "lat": 37.6473035,
+    "lon": -3.4551806
+  },
+  "Santiponce": {
+    "lat": 37.4355931,
+    "lon": -6.039916
+  },
+  "Villanueva del Río y Minas": {
+    "lat": 37.6551394,
+    "lon": -5.7112257
+  },
+  "Antequera (Cortijo del Castillón)": {
+    "lat": 37.0183652,
+    "lon": -4.5596649
+  },
+  "Baena": {
+    "lat": 37.6173035,
+    "lon": -4.324371
+  },
+  "Alcalá del Río": {
+    "lat": 37.5180979,
+    "lon": -5.982018
+  },
+  "Jimena de la Frontera": {
+    "lat": 36.4327335,
+    "lon": -5.4527477
+  },
+  "San Nicolás del Puerto": {
+    "lat": 37.9950338,
+    "lon": -5.6527851
+  },
+  "Ronda la Vieja": {
+    "lat": 36.8385581,
+    "lon": -5.2384234
+  },
+  "Santa Cruz": {
+    "lat": 37.7349085,
+    "lon": -4.6338745
+  },
+  "Almería": {
+    "lat": 36.8414197,
+    "lon": -2.4628135
+  },
+  "Ronda": {
+    "lat": 36.7421339,
+    "lon": -5.1665916
+  },
+  "Villanueva de Algaidas": {
+    "lat": 37.1831293,
+    "lon": -4.449969
+  },
+  "Espiel": {
+    "lat": 38.1885533,
+    "lon": -5.0189717
+  },
+  "Pinos Puente": {
+    "lat": 37.2516033,
+    "lon": -3.749268
+  },
+  "Gabia Grande": {
+    "lat": 37.1365244,
+    "lon": -3.6694292
+  },
+  "Marbella (San Pedro de Alcántara)": {
+    "lat": 36.508976,
+    "lon": -4.88562
+  },
+  "Ardales": {
+    "lat": 36.8781793,
+    "lon": -4.8468061
+  },
+  "Almonaster la Real": {
+    "lat": 37.8721788,
+    "lon": -6.7866023
+  },
+  "Baños de la Encina": {
+    "lat": 38.1710134,
+    "lon": -3.7744639
+  },
+  "Granada": {
+    "lat": 37.1734995,
+    "lon": -3.5995337
+  },
+  "Alcalá de Guadaira": {
+    "lat": 37.3397709,
+    "lon": -5.8408396
+  },
+  "Alcaudete": {
+    "lat": 37.5881403,
+    "lon": -4.0812937
+  },
+  "Baeza": {
+    "lat": 37.9945171,
+    "lon": -3.4708163
+  },
+  "Úbeda": {
+    "lat": 38.0111398,
+    "lon": -3.3719098
+  },
+  "Almódovar del Río": {
+    "lat": 37.8112483,
+    "lon": -5.0194742
+  },
+  "Jerez de la Frontera": {
+    "lat": 36.6816936,
+    "lon": -6.1377402
+  },
+  "Utrera": {
+    "lat": 37.1824646,
+    "lon": -5.7817506
+  },
+  "Arcos de la Frontera": {
+    "lat": 36.7526913,
+    "lon": -5.8122092
+  },
+  "Alcalá de los Gazules": {
+    "lat": 36.4618805,
+    "lon": -5.7238891
+  },
+  "Belalcázar": {
+    "lat": 38.575186,
+    "lon": -5.1669539
+  },
+  "Santa Fe": {
+    "lat": 37.1895171,
+    "lon": -3.7183561
+  },
+  "Puerto Real": {
+    "lat": 36.5286856,
+    "lon": -6.1902161
+  },
+  "Olvera": {
+    "lat": 36.9348951,
+    "lon": -5.2601194
+  },
+  "Sabiote": {
+    "lat": 38.0691918,
+    "lon": -3.3068128
+  },
+  "Vélez-Blanco": {
+    "lat": 37.6914189,
+    "lon": -2.0956638
+  },
+  "Martos": {
+    "lat": 37.7222633,
+    "lon": -3.9703241
+  },
+  "La Calahorra": {
+    "lat": 37.1814745,
+    "lon": -3.0640503
+  },
+  "La Guardia de Jaén": {
+    "lat": 37.7425684,
+    "lon": -3.6937084
+  },
+  "Villanueva del Arzobispo": {
+    "lat": 38.1685887,
+    "lon": -3.0078293
+  },
+  "Morón de la Frontera": {
+    "lat": 37.1215305,
+    "lon": -5.4559583
+  },
+  "Guadix": {
+    "lat": 37.2991265,
+    "lon": -3.1373303
+  },
+  "La Rambla": {
+    "lat": 37.6061688,
+    "lon": -4.7398851
+  },
+  "Lucena": {
+    "lat": 37.4091334,
+    "lon": -4.4860128
+  },
+  "Montalbán de Córdoba": {
+    "lat": 37.5814618,
+    "lon": -4.7496714
+  },
+  "Priego de Córdoba": {
+    "lat": 37.4384292,
+    "lon": -4.1980422
+  },
+  "Écija": {
+    "lat": 37.5406007,
+    "lon": -5.079589
+  },
+  "Archidona": {
+    "lat": 37.0945779,
+    "lon": -4.3906561
+  },
+  "Aguilar de la Frontera": {
+    "lat": 37.5146967,
+    "lon": -4.6567166
+  },
+  "Churriana": {
+    "lat": 36.674979,
+    "lon": -4.495675
+  },
+  "Estepa": {
+    "lat": 37.29204,
+    "lon": -4.8781876
+  },
+  "Estepa / Bujalance": {
+    "lat": 37.29204,
+    "lon": -4.8781876
+  },
+  "Lebrija": {
+    "lat": 36.9193102,
+    "lon": -6.0764057
+  },
+  "Moguer": {
+    "lat": 37.2746182,
+    "lon": -6.8373527
+  },
+  "Umbrete": {
+    "lat": 37.368665,
+    "lon": -6.1573611
+  },
+  "Espartinas": {
+    "lat": 37.3814997,
+    "lon": -6.125652
+  },
+  "La Carolina": {
+    "lat": 38.2742478,
+    "lon": -3.6152701
+  },
+  "La Carlota": {
+    "lat": 37.6746159,
+    "lon": -4.9325335
+  },
+  "La Luisiana": {
+    "lat": 37.5278048,
+    "lon": -5.2481605
+  },
+  "Prado del Rey": {
+    "lat": 36.7879415,
+    "lon": -5.5572276
+  },
+  "Algar": {
+    "lat": 36.6566286,
+    "lon": -5.6564009
+  },
+  "Vélez de Benaudalla": {
+    "lat": 36.8323233,
+    "lon": -3.5157759
+  },
+  "Punta Umbría": {
+    "lat": 37.1830237,
+    "lon": -6.9662203
+  },
+  "Palos de la Frontera": {
+    "lat": 37.2276501,
+    "lon": -6.895393
+  },
+  "Aracena": {
+    "lat": 37.8949414,
+    "lon": -6.5624496
+  },
+  "Alcalá de Guadaíra": {
+    "lat": 37.3397709,
+    "lon": -5.8408396
+  },
+  "Peñarroya-Pueblonuevo": {
+    "lat": 38.3026178,
+    "lon": -5.2714828
+  },
+  "Algeciras": {
+    "lat": 36.1311725,
+    "lon": -5.4473991
+  },
+  "Villa del Río": {
+    "lat": 37.980817,
+    "lon": -4.2916403
+  },
+  "Andújar": {
+    "lat": 38.0392362,
+    "lon": -4.0505603
+  },
+  "Villafranca de Córdoba": {
+    "lat": 37.9623001,
+    "lon": -4.5459147
+  },
+  "Bellavista (Sevilla)": {
+    "lat": 37.3215196,
+    "lon": -5.9642315
+  },
+  "Barbate": {
+    "lat": 36.1923983,
+    "lon": -5.9192837
+  },
+  "Capileira": {
+    "lat": 36.9613562,
+    "lon": -3.3585582
+  },
+  "Torremolinos": {
+    "lat": 36.6242841,
+    "lon": -4.4995448
+  },
+  "Alcalá del Río (Esquivel)": {
+    "lat": 37.5180979,
+    "lon": -5.982018
+  },
+  "Peñaflor": {
+    "lat": 37.7084447,
+    "lon": -5.3457347
+  },
+  "Córdoba (Bujalance)": {
+    "lat": 37.8845813,
+    "lon": -4.7760138
+  },
+  "La Carolina / Linares": {
+    "lat": 38.2742478,
+    "lon": -3.6152701
+  },
+  "Roquetas de Mar (Aguadulce)": {
+    "lat": 36.7630203,
+    "lon": -2.6115886
+  },
+  "San Roque (Sotogrande)": {
+    "lat": 36.2100586,
+    "lon": -5.3868293
+  },
+  "Montilla": {
+    "lat": 37.5811178,
+    "lon": -4.6414726
+  },
+  "Barbate (Zahora)": {
+    "lat": 36.1923983,
+    "lon": -5.9192837
+  },
+  "Chiclana de la Frontera": {
+    "lat": 36.4191096,
+    "lon": -6.1460683
+  },
+  "Los Barrios": {
+    "lat": 36.1853519,
+    "lon": -5.4933701
+  },
+  "Níjar (Cabo de Gata)": {
+    "lat": 36.962894,
+    "lon": -2.2063758
+  },
+  "Posadas": {
+    "lat": 37.8017289,
+    "lon": -5.107031
+  },
+  "El Saucejo": {
+    "lat": 37.0698592,
+    "lon": -5.0970989
+  },
+  "Brenes": {
+    "lat": 37.5494873,
+    "lon": -5.8724046
+  },
+  "Gibraleón": {
+    "lat": 37.3746324,
+    "lon": -6.9690748
+  },
+  "Torrox": {
+    "lat": 36.7705233,
+    "lon": -3.9530852
+  }
+}
