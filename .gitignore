@@ -5,3 +5,4 @@ __MACOSX/
 __pycache__/
 foto_mapping.json
 datos_monumentos.json
+.claude/
